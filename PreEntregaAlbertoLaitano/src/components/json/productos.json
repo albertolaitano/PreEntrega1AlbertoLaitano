@@ -1,6 +1,6 @@
 [
 	{
-        "id":1,
+        "idx":1,
 		"nombre":"Imperial de calabaza negro",
 		"color":"Negro y plata",
 		"categoria":"mates",
@@ -10,7 +10,7 @@
 		"stock":5
     },
     {
-        "id":2,
+        "idx":2,
 		"nombre":"Mate de vuelo en acero inoxidable",
 		"color":"Marron y plata",
 		"categoria":"mates",
@@ -20,7 +20,7 @@
 		"stock":8
     },
     {
-        "id":3,
+        "idx":3,
 		"nombre":"Mate camionero de cerámica",
 		"color":"Negro y plata",
 		"categoria":"mates",
@@ -30,7 +30,7 @@
 		"stock":10
     },
     {
-        "id":4,
+        "idx":4,
 		"nombre":"Porongo forrado en cuero emboquillado en alpaca",
 		"color":"Blanco",
 		"categoria":"mates",
@@ -41,7 +41,7 @@
     },
 
     {
-        "id":5,
+        "idx":5,
 		"nombre":"Alpaca chupete grueso mediana",
 		"color":"Plata",
 		"categoria":"bombillas",
@@ -51,7 +51,7 @@
 		"stock":4
     },
     {
-        "id":6,
+        "idx":6,
 		"nombre":"Alpaca pico de loro",
 		"color":"Plata",
 		"categoria":"bombillas",
@@ -61,7 +61,7 @@
 		"stock":5
     },
     {
-        "id":7,
+        "idx":7,
 		"nombre":"Bombilla en alpaca y baño de oro",
 		"color":"Plata",
 		"categoria":"bombillas",
@@ -71,7 +71,7 @@
 		"stock":4
     },
     {
-        "id":8,
+        "idx":8,
 		"nombre":"Alpaca de Alpaca cincelada",
 		"color":"plata",
 		"categoria":"bombillas",
@@ -81,7 +81,7 @@
 		"stock":8
     },
     {
-        "id":9,
+        "idx":9,
 		"nombre":"Termo 1lt diseño",
 		"color":"Verde",
 		"categoria":"termos",
@@ -91,7 +91,7 @@
 		"stock":4
     },
     {
-        "id":10,
+        "idx":10,
 		"nombre":"Termo en acero",
 		"color":"Plata",
 		"categoria":"termos",
@@ -101,7 +101,7 @@
 		"stock":5
     },
     {
-        "id":11,
+        "idx":11,
 		"nombre":"Termo Berlina con pico cebador",
 		"color":"Negro y plata",
 		"categoria":"termos",
@@ -111,7 +111,7 @@
 		"stock":10
     },
     {
-        "id":12,
+        "idx":12,
 		"nombre":"Termo de 1 lt con pico",
 		"color":"Blanco",
 		"categoria":"termos",
