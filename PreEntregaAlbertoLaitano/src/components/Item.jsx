@@ -4,9 +4,9 @@ import { useContext } from "react";
 
 
 const Item = ({item}) => {
-    const { addItem } = useContext(CartContext); // Accede al contexto
+    const { addItem } = useContext(CartContext); 
     const addToCart = () => {
-        addItem(item, 1); // Llama a la función addItem con el artículo y la cantidad
+        addItem(item, 1); 
     };
 
     return (
