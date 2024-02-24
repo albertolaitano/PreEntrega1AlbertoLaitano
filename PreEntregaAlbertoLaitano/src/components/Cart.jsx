@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { CartContext } from "./context/CartContext";
 import { Link } from "react-router-dom";
-import trash from "../assets/trash.svg"
+import trash from "../assets/trash.svg";
 
 
 const Cart = () => {

@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import IconoCarrito from "../assets/cart.svg"
+import IconoCarrito from "../assets/cart.svg";
 import { CartContext } from "./context/CartContext";
 import { Link } from "react-router-dom";
 

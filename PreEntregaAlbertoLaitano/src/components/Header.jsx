@@ -1,6 +1,6 @@
 import CartWidget from "./CartWidget";
 import LogoMate from "./LogoMate";
-import NavBar from "./NavBar"
+import NavBar from "./NavBar";
 
 const Header = () => {
     return (
